@@ -1,0 +1,12 @@
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\bin\Debug\net8.0\EventApp.Modules.Events.Api.deps.json
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\bin\Debug\net8.0\EventApp.Modules.Events.Api.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\bin\Debug\net8.0\EventApp.Modules.Events.Api.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.csproj.AssemblyReference.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.AssemblyInfoInputs.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.AssemblyInfo.cs
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.csproj.CoreCompileInputs.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\refint\EventApp.Modules.Events.Api.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\EventApp.Modules.Events.Api.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Api\obj\Debug\net8.0\ref\EventApp.Modules.Events.Api.dll

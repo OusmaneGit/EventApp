@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  eventapp.api:
+    image: ${DOCKER_REGISTRY-}eventappapi
+    container_name: EventApp.API
+    build:
+      context: .
+      dockerfile: src/API/Event.API/Dockerfile
+    ports:
+      - 5000:8080
+      - 5001:8081
+  eventapp.database:
+    image: postgres:latest
+    container_name: EventApp.Database
+    environment:
+      - POSTGRES_DB=eventdb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - ./.containers/db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432

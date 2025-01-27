@@ -1,0 +1,5 @@
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Infrastructure\obj\Debug\net8.0\EventApp.Modules.Events.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Infrastructure\obj\Debug\net8.0\EventApp.Modules.Events.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Infrastructure\obj\Debug\net8.0\EventApp.Modules.Events.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Infrastructure\obj\Debug\net8.0\EventApp.Modules.Events.Infrastructure.AssemblyInfo.cs
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Infrastructure\obj\Debug\net8.0\EventApp.Modules.Events.Infrastructure.csproj.CoreCompileInputs.cache

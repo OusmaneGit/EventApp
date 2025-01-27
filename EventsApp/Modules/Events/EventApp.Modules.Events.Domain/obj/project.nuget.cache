@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4ZmMgfFrAY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BaOus\\OneDrive\\Bureau\\projects\\ModularMonolith\\EventsApp\\Modules\\Events\\EventApp.Modules.Events.Domain\\EventApp.Modules.Events.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BaOus\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}

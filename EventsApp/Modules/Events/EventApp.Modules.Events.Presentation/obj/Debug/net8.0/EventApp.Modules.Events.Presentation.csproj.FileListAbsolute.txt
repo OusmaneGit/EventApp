@@ -1,0 +1,17 @@
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Presentation.deps.json
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Presentation.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Presentation.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Application.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Domain.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Application.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\bin\Debug\net8.0\EventApp.Modules.Events.Domain.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.csproj.AssemblyReference.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.AssemblyInfoInputs.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.AssemblyInfo.cs
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.BCC34D28.Up2Date
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\refint\EventApp.Modules.Events.Presentation.dll
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\EventApp.Modules.Events.Presentation.pdb
+C:\Users\BaOus\OneDrive\Bureau\projects\ModularMonolith\EventsApp\Modules\Events\EventApp.Modules.Events.Presentation\obj\Debug\net8.0\ref\EventApp.Modules.Events.Presentation.dll

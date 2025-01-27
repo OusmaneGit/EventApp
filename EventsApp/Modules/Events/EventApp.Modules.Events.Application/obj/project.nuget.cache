@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ofgFED01K30=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BaOus\\OneDrive\\Bureau\\projects\\ModularMonolith\\EventsApp\\Modules\\Events\\EventApp.Modules.Events.Application\\EventApp.Modules.Events.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BaOus\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\BaOus\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}
